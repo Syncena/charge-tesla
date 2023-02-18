@@ -1,0 +1,10 @@
+{
+	"email": "your-tesla-email-here",
+	"enabled_Dory": true,
+	"enabled_Tatsu": true,
+	"home_lat": 0,
+	"home_lon": 0,
+	"enabled_powerwall": true,
+	"off_backup_reserve_percent": "15",
+	"on_backup_reserve_percent": "100"
+}
